@@ -3,33 +3,54 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 《电路与模拟电子技术基础》 (2024秋季学期, HFU)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## 基本信息
 
-More specifically, the created site:
+<dl>
+  <dt>课程</dt>
+  <dd>Fundamentals of Circuit and Analog Electronic (电路与模拟电子技术基础)</dd>
+  <dt>主讲</dt>
+  <dd>胡松华</dd>
+  <dt>学分</dt>
+  <dd>4.0</dd>
+  <dt>学期</dt>
+  <dd>2024秋季学期</dd>
+</dl>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## 教学安排
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- 理论 (3-16周, 56h)
+	- Tue 8:20 a.m. - 10:00 a.m. in 36-210 (每周二)
+	- Fri 10:20 a.m. - 12:00 p.m. in 36-203 (每周五)
+- 实验 (11-16周, 12h): Mon 14:00 p.m. - 15:40 p.m. in 42-505 (每周一)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## 教学进度
 
-To get started with creating a site, simply:
+### Week 1: 2024-09-16
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+**Fri, Sep 20:    电路与电子技术发展历史与趋势、电路的基本概念与基本定律**
+Lecture note: [[240920.ch01p1.前言.pdf]]
+Readings: (1) [電是誰發明的? 人類如何從發現電到使用電? ▶ 電的歷史](https://www.youtube.com/watch?v=-O6iUnqp3EQ). (2) [[ 科學與科技 ] 電是什麼](https://www.youtube.com/watch?v=ZeM23bE9bIo). (3) [十一分鐘略懂電子電路：電、電路、電阻、電容、電感、二極體、三極體、MOSFET 簡介及相關應用](https://www.youtube.com/watch?v=V3A0fxmhYrg). (4) [超基本電學](https://www.youtube.com/watch?v=XcSn2UkPMuc). (5) [基本電學P=IV](https://www.youtube.com/watch?v=Kv5ncdEpZM8).
+To read: (1) [Voltage, Current, Resistance, and Ohm's Law](https://weinman.cs.grinnell.edu/courses/CSC211/2023S/electricity/voltage-current-resistance-ohms-law.html)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Week2: 2024-09-23
 
-----
+**Tue, Sep 24:    电路的基本概念与基本定律**
+Lecture note: [[240920.ch01p1.前言.pdf]]
+(1) [[电位]] (2) [[power|电功率]]
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+**Fri, Sep 27:**    
+Lecture note: 
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Exams and grades
+
+- 本课程的考试均以闭卷考试形式进行
+- 考核成绩(100%) = 期终笔试(50%) + ==笔记(10%)== + ==学习报告(10%)== + 过程考核1测验(15%) + 过程考核2测验 (15%)
+- 期终笔试成绩低于60分不及格
+- 补考成绩不采用N+2方案计算
+- 上课方案：电路 (28学时) + 模电 (28学时)
+
+---
+
+Last Updated: Tue Oct  1 22:50:41 CST 2024
