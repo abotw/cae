@@ -11,7 +11,7 @@ db: https://book.douban.com/subject/1395978/
 
 <div>
 	<a href="https://book.douban.com/subject/1395978/">
-		<img src="https://img1.doubanio.com/view/subject/l/public/s5696568.jpg" style="height: 200px;">
+		<img src="https://img1.doubanio.com/view/subject/m/public/s5696568.jpg" style="height: 200px;">
 	</a>
 </div>
 
