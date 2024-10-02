@@ -15,4 +15,5 @@ _site/
 vendor/
 
 # MY DIRS
-.obsidian
+.obsidian/
+gloss/
